@@ -1,0 +1,2 @@
+cd C:\Users\sarve\OneDrive\Desktop\Sem-08\RBl\Final Project
+streamlit run RBL_SL.py --server.enableXsrfProtection false
